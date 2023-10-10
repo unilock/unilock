@@ -1,4 +1,4 @@
-# <-- kate
+# <-- katherine
 
 ![trans rights][badge-trans]
 
