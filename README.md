@@ -4,13 +4,13 @@ Greetings. I am the social construct known as "unilock". Here you will find the 
 
 \- I have no skills or applicable knowledge of any sort.
 
-\- I'm currently working on getting out of bed. A long and arduous journey.
+\- I'm currently working on justice. A long and arduous journey.
 
 \- I aspire to learn C. So far, I have reached the understanding that it is the letter that comes after B. Exciting!
 
 \- Ask me anything... or don't.
 
-\- Fun fact: IT NEVER MATTERED
+\- Fun fact:
 
 ![trans rights][badge-trans]
 
