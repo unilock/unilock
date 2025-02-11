@@ -10,7 +10,7 @@ Greetings. I am the social construct known as "unilock". Here you will find the 
 
 \- Ask me anything... or don't.
 
-\- Fun fact:
+\- Fun fact: my username is always completely lowercase
 
 ![trans rights][badge-trans]
 
